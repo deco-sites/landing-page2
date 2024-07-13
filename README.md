@@ -1,0 +1,2 @@
+# landing-page2
+Powered by deco.cx
